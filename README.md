@@ -11,7 +11,7 @@ Installation
 Usage
 -----
 
-    var VL = require('vl');
+    var VL = require('node-visualead');
     var fs = require('fs');
 
     var vl = new VL('API KEY');
