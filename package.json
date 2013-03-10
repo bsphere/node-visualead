@@ -1,0 +1,24 @@
+{
+	"name": "node-visualead",
+	"version": "0.0.1",
+	"description": "Node.js wrapper for Visualead visual QR code API v1.0",
+	"main": "vl.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/bsphere/node-visualead.git"
+	},
+	"keywords": [
+		"Visualead",
+		"api",
+		"QR",
+		"visual QR"
+	],
+	"author": {
+		"name": "Gal Ben-Haim"
+	},
+	"license": "MIT",
+	"readmeFilename": "README.md",
+	"dependencies": {
+		"request": "2.14.0"
+	}
+}
