@@ -37,8 +37,9 @@ Usage
         stream.pipe(file);  
     }); 
 
+
 Supported Methods
 -----------------
 
-  generate(imageUrl, options, callback);
+    generate(imageUrl, options, callback);
 
