@@ -1,5 +1,4 @@
 var request = require('request');
-var fs = require('fs');
 
 var VL = module.exports = function(apiKey) {
 	this.apiKey = apiKey;
